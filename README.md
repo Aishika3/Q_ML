@@ -63,6 +63,5 @@ To **deploy** this on Streamlit Cloud:
 3. Deploy the app via **Streamlit Cloud**.
 
 ### Contributors
-Aishika Das
-Devika Kanchan Simalai
-
+1. **Aishika Das**.
+2. **Devika Kanchan Simlai**
