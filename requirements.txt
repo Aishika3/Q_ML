@@ -1,0 +1,5 @@
+streamlit
+openai
+numpy
+qiskit
+qiskit-machine-learning
