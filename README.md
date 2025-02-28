@@ -1,4 +1,4 @@
-#### Quantum NLP + GPT-4 chatbot using Streamlit
+# Quantum NLP + GPT-4 chatbot using Streamlit
 
 ### **Functionality of the Code**
 This Python script builds a **Quantum NLP + GPT-4 chatbot** using **Streamlit** for deployment. The chatbot combines quantum computing techniques with **GPT-4** to process user input and generate responses.
